@@ -30,10 +30,10 @@ import 'style/react_tab_style.dart';
 import 'style/styles.dart';
 
 /// Default size of the curve line.
-const double CONVEX_SIZE = 80;
+const double CONVEX_SIZE = 70;
 
 /// Default height of the AppBar.
-const double BAR_HEIGHT = 50;
+const double BAR_HEIGHT = 60;
 
 /// Default distance that the child's top edge is inset from the top of the stack.
 const double CURVE_TOP = -25;
@@ -42,7 +42,7 @@ const double CURVE_TOP = -25;
 const double ACTION_LAYOUT_SIZE = 60;
 
 /// Default size for active icon in tab.
-const double ACTION_INNER_BUTTON_SIZE = 40;
+const double ACTION_INNER_BUTTON_SIZE = 60;
 
 /// Default elevation of [ConvexAppBar].
 const double ELEVATION = 2;
